@@ -3,7 +3,7 @@
 
 <h2>I am Rishabh Sawa! </h2>
 
-<img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
 
 
 *  Masters of Computer Science Student for the Fall 2021 term at <a href="https://www.umbc.edu/">University Of Maryland Baltimore County</a></em></p>
