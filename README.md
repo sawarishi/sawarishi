@@ -18,7 +18,7 @@
 
 ## Reach out to me 📝
 
-[<img align="left" alt="sawarishi | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
+[<img align="left" alt="sawarishi | LinkedIn" height="30px" src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin%20logo&page=1&position=1&page=1&position=1&related_id=3536505&origin=search"/>][linkedin]
 
 <br />
 
@@ -31,9 +31,6 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sawarishi&&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  
-
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawarishi&layout=compact&card_width=440)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
 
 ---
 
